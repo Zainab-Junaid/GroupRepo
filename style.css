@@ -1,0 +1,58 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.container {
+    width: 100%; 
+    height: 1000px; 
+    display: flex;
+    flex-direction: column;
+}
+
+.colorful-section {
+    flex-grow: 1;
+    text-align: center;
+    font-weight: bold;
+}
+
+.section1 {
+    background-color: rgb(245, 114, 54);
+    padding: 250px;
+    
+}
+
+.section2 {
+    background-color: rgb(230, 230, 230);
+    padding: 900px;
+    padding-right: 299px;
+}
+
+.section3 {
+    background-color: rgb(255, 255, 255);
+    padding: 400px;
+    padding-right: 299px;
+}
+.section4 {
+    background-color: rgb(230, 230, 230);
+    padding: 350px;
+    padding-right: 299px;
+}
+.section5 {
+    background-color: rgb(245, 114, 54);
+    padding: 130px;
+    padding-right: 299px;
+}
+.section6 {
+    background-color: rgb(230, 230, 230);
+    padding: 790px;
+    padding-right: 299px;
+}
+.section7 {
+    background-color: rgb(245, 114, 54);
+    padding: 230px;
+    padding-right: 299px;
+}
+.section8 {
+    background-color: rgb(46, 46, 46);
+    padding: 100px;
+    padding-right: 299px;
+}
