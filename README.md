@@ -2,7 +2,6 @@
 Data Science Group Assignment
 BSDSF22M003-Eman Asif
 BSDSF22M005-Zainab Junaid
-# Project Title
 ### Project Title: **Solar Energy Solutions Webpage**
 
 ### Project Description:
