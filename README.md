@@ -16,4 +16,3 @@ The webpage consists of the following key sections:
 - **Visual Appeal**: The site uses bright, contrasting colors, gradient overlays, and high-quality images related to solar energy to capture attention and promote user interaction.
 
 This project is designed to be both informative and aesthetically pleasing, encouraging more individuals and businesses to adopt solar energy solutions.
-
