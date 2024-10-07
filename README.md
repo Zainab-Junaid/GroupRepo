@@ -14,5 +14,3 @@ The webpage consists of the following key sections:
 - **Competitive Advantages**: A section showcasing the durability, efficiency, and economical aspects of solar power, illustrated with images and concise descriptions.
 - **Interactive Features**: Includes a form for visitors to submit inquiries, buttons for contacting the company, and a dynamic FAQ section.
 - **Visual Appeal**: The site uses bright, contrasting colors, gradient overlays, and high-quality images related to solar energy to capture attention and promote user interaction.
-
-This project is designed to be both informative and aesthetically pleasing, encouraging more individuals and businesses to adopt solar energy solutions.
