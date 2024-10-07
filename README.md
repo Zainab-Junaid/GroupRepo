@@ -61,3 +61,4 @@ If you want to run the project on a local development server:
 - **Extend JavaScript**: Add more interactions or enhance the form and FAQ behavior using `scriptt.js`.
 
 That's it! You can now view and interact with your Solar Energy Solutions webpage.
+ignore this line please
