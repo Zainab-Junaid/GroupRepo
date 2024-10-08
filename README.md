@@ -12,9 +12,7 @@ The webpage consists of the following key sections:
 - **Benefits of Solar**: Sections detailing the advantages of solar energy, such as being renewable, cost-effective, and environmentally friendly.
 - **How Solar Works**: An informative block explaining the basic science behind solar energy, with call-to-action buttons for product exploration and customer engagement.
 - **Competitive Advantages**: A section showcasing the durability, efficiency, and economical aspects of solar power, illustrated with images and concise descriptions.
-- **Interactive Features**: Includes a form for visitors to submit inquiries, buttons for contacting the company, and a dynamic FAQ section.<<<<<<< HEAD
-- **Visual Appeal**: The site uses bright, contrasting colors, gradient overlays, and high-quality images related to solar energy to capture attention and promote user interaction.
-=======
+- **Interactive Features**: Includes a form for visitors to submit inquiries, buttons for contacting the company, and a dynamic FAQ section.
 - **Visual Appeal**: The site uses bright, contrasting colors, gradient overlays, and high-quality images related to solar energy to capture attention and promote user interaction.
 
 This project is designed to be both informative and aesthetically pleasing, encouraging more individuals and businesses to adopt solar energy solutions.
@@ -61,9 +59,6 @@ If you want to run the project on a local development server:
 - **Adjust Styles**: Use `style3.css` to update colors, fonts, or layouts.
 - **Extend JavaScript**: Add more interactions or enhance the form and FAQ behavior using `scriptt.js`.
 
-<<<<<<< HEAD
-That's it! You can now view and interact with your Solar Energy Solutions webpag
-=======
 That's it! You can now view and interact with your Solar Energy Solutions webpage.
 Tools and Technologies Used
 1. HTML: Used to structure the content of the web pages.
@@ -78,4 +73,3 @@ Key Actions Taken During the Project
 2. CSS Styling: Designed the layout and visuals, including flexible sections, responsive design, and color themes for each section.
 3. JavaScript Integration: Enabled interactive features like buttons to show or hide content dynamically.
 4. Use of External Resources: Integrated Font Awesome for icons and Google Fonts for typography. External images were used to illustrate solar energy.
->>>>>>> Eman
