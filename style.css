@@ -158,6 +158,7 @@ body{
     height: 100%;
     display: block;
 }
+<<<<<<<<< Temporary merge branch 1
 .gradient-overlay {
     position: absolute;
     top: 0;
@@ -581,3 +582,5 @@ body{
     margin-top: 90px;
     font-size: 10px;
 }
+=========
+>>>>>>>>> Temporary merge branch 2
