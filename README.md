@@ -60,3 +60,16 @@ If you want to run the project on a local development server:
 - **Extend JavaScript**: Add more interactions or enhance the form and FAQ behavior using `scriptt.js`.
 
 That's it! You can now view and interact with your Solar Energy Solutions webpage.
+Tools and Technologies Used
+1. HTML: Used to structure the content of the web pages.
+2. CSS: Provides the design, layout, and styling for the website.
+3. JavaScript: Adds interactivity, such as toggling visibility of content on button clicks.
+4. Font Awesome: Used for icons across the website.
+Google Fonts (Montserrat): Custom typography for a polished look.
+5. External Resources: Images and content sourced from Freepik.
+
+Key Actions Taken During the Project
+1. HTML Structure Setup: Created the main layout, including sections for solar benefits, renewable energy, and clean energy information.
+2. CSS Styling: Designed the layout and visuals, including flexible sections, responsive design, and color themes for each section.
+3. JavaScript Integration: Enabled interactive features like buttons to show or hide content dynamically.
+4. Use of External Resources: Integrated Font Awesome for icons and Google Fonts for typography. External images were used to illustrate solar energy.
